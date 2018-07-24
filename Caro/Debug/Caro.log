@@ -1,0 +1,5 @@
+﻿  main.cpp
+c:\users\user\desktop\caro\caro\main.cpp(1207): warning C4018: '>=': signed/unsigned mismatch
+c:\users\user\desktop\caro\caro\main.cpp(1209): warning C4018: '<': signed/unsigned mismatch
+  Caro.vcxproj -> C:\Users\USER\Desktop\Caro\Debug\Caro.exe
+  Caro.vcxproj -> C:\Users\USER\Desktop\Caro\Debug\Caro.pdb (Partial PDB)
