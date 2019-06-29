@@ -1,2 +1,2 @@
 # AI-Gomoku-CaroChess
-Demo Vidhttps://youtu.be/OQXtNGt-wsk
+Demo Video: https://youtu.be/OQXtNGt-wsk
